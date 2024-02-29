@@ -1,0 +1,9 @@
+name:Riyaz
+age:42
+pleace:Pune
+is_student:true
+grades:
+   subject:Math
+   grade:A
+   subject:English
+   grade:B
